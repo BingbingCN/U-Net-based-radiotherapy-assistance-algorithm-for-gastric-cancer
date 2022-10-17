@@ -8,19 +8,24 @@
 * [File Structure](#file-structure)
 * [Dataset](#citation)
 
+
+
 ##Example
 The red part represents the intestine, the blue part represents the stomach, and the picture is a medical scan image.
-![Alt](.\Example.jpg)
+![Example](https://user-images.githubusercontent.com/94735262/196133795-e04ecb96-1e4c-4d90-89b6-0dd3c6eda59f.jpg)
+
 
 ##Task
 Our task is to achieve the recognition of normal organs by using semantic segmentation techniques (FCN or U-Net) in deep learning.
 
 ##Experiment
 ###1.Training Loss
-![Alt](.\result\train.jpg)
+![train](https://user-images.githubusercontent.com/94735262/196133918-5b5ec323-dc65-4c2c-b5c8-842892fcc6e7.jpg)
+
 
 ###2.Prediction
-![Alt](.\Example1.jpg)
+![Example1](https://user-images.githubusercontent.com/94735262/196133975-373911b6-7f36-4e1e-97de-833a8c7a9731.jpg)
+
 
 ##File Structure
 ```angular2html
